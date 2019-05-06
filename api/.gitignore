@@ -1,0 +1,12 @@
+.idea
+**/.DS_Store
+venv
+**/__pycache__/
+mysql.sock
+temp
+media
+credentials.json
+**/migrations/
+ggg/keys/
+old_requirements.txt
+db.sqlite
